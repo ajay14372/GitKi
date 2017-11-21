@@ -1,1 +1,1 @@
-# [Welcome Page](docs/Welcome.md)
+# [Welcome Page](docs/Welcome.MD)
